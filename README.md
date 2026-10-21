@@ -6,7 +6,7 @@ Supply chain operator turned analytics and strategy. Five years running automoti
 - 🎓 [**Richie**](https://lenny-finance-buddy.lovable.app/), financial wellness for college students · [**Casey**](https://casey-case-core.base44.app), a BCG-style case interview simulator
 - ❄️ **OptiMelt** ([road_demo](https://github.com/varonmiranda/road_demo)): precision de-icing for DC hospital access roads, about half the salt in simulation
 - 📊 Researching whether inventory signals predict gross-margin compression before it shows up
-- 🏛️ President, Kogod Graduate Student Council
+- 🏛️ President, Kogod Graduate Student Council, and Lead Admissions Ambassador
 - 🎯 Looking for Summer 2027 consulting and strategy roles
 
 🌐 **Portfolio:** [varonmiranda.github.io](https://varonmiranda.github.io)  
