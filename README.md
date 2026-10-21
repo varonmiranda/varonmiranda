@@ -9,8 +9,8 @@ Supply chain operator turned analytics and strategy. Five years running automoti
 - 🏛️ President, Kogod Graduate Student Council
 - 🎯 Looking for Summer 2027 consulting and strategy roles
 
-🌐 **Portfolio:** [varonmiranda.github.io](https://varonmiranda.github.io)
-💼 **LinkedIn:** [linkedin.com/in/varonmiranda98](https://www.linkedin.com/in/varonmiranda98/)
+🌐 **Portfolio:** [varonmiranda.github.io](https://varonmiranda.github.io)  
+💼 **LinkedIn:** [linkedin.com/in/varonmiranda98](https://www.linkedin.com/in/varonmiranda98/)  
 📫 **Email:** [vm2354a@american.edu](mailto:vm2354a@american.edu)
 
 **Tools:** Python · SQL · Power BI · Tableau · SAP MM · React · Claude API
