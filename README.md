@@ -2,7 +2,8 @@
 
 Supply chain operator turned analytics and strategy. Five years running automotive supply chains at **Tata Motors** and **Mahindra & Mahindra** across India and Finland, now a STEM MBA candidate (Business Analytics & Finance) at **American University Kogod**, class of 2027.
 
-- 🏗️ Building **Hektor**, an AI-native supply chain planning platform, and **DealBridge**, AI deal management for M&A teams
+- 🏗️ Building [**Hektor**](https://hektor-supply-chain.base44.app), an AI-native semiconductor supply chain control tower, and [**DealBridge**](https://www.perplexity.ai/computer/a/0dc88755-a1d3-471f-936d-8d399a5b9185), an AI co-pilot for M&A due diligence
+- 🎓 [**Richie**](https://lenny-finance-buddy.lovable.app/), financial wellness for college students · [**Casey**](https://casey-case-core.base44.app), a BCG-style case interview simulator
 - ❄️ **OptiMelt** ([road_demo](https://github.com/varonmiranda/road_demo)): precision de-icing for DC hospital access roads, about half the salt in simulation
 - 📊 Researching whether inventory signals predict gross-margin compression before it shows up
 - 🏛️ President, Kogod Graduate Student Council
